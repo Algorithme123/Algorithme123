@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="96" viewBox="0 0 80 96" role="img" aria-labelledby="title">
+  <title id="title">SQL</title>
+  <rect x="0.5" y="0.5" width="79" height="95" rx="14" fill="#101b2f" stroke="#28364c"/>
+  <path d="M 17 95 H 63" stroke="#3b5668" stroke-opacity="0.55"/>
+  <g stroke="#82c5f8" stroke-width="2" fill="#153d5d" stroke-linejoin="round">
+    <path d="M 21 23 V 48 C 21 59 59 59 59 48 V 23"/>
+    <path d="M 21 35 C 21 46 59 46 59 35 M 21 45 C 21 56 59 56 59 45" fill="none"/>
+    <ellipse cx="40" cy="23" rx="19" ry="8" fill="#1f577d"/>
+  </g>
+  <text x="40" y="80" fill="#dce7f4" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" text-anchor="middle">SQL</text>
+</svg>

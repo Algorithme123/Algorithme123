@@ -1,0 +1,5 @@
+# Icon credits
+
+Language logos are from [Devicon](https://github.com/devicons/devicon), pinned to commit `32fe1d3b3f36ad11f90ab94f7db59738139c2bf6`, under the accompanying MIT license.
+
+The dark cards and the generic SQL database icon were created for this profile. All trademarks belong to their respective owners.

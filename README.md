@@ -23,16 +23,17 @@ I value clear reporting, useful tests, and repeatable deployments.
 
 **Focus:** Red teaming · Web & API security · CTFs · Secure development
 
-## Stack
+## Languages & Web
 
-| Area | Tools |
-| :--- | :--- |
-| **Development** | Java / Spring Boot · Angular / TypeScript · Flutter / Dart |
-| **Security & automation** | Python · Linux |
-| **Delivery & data** | Docker · GitHub Actions · PostgreSQL |
-
-## Selected work
-
-- [**ZeroDay CTF**](https://github.com/Algorithme123/zerodayctf2026) — Challenge write-ups and practical security notes.
-- [**BIECE-AE**](https://bieceae.org/) — A web and mobile platform I contribute to, from APIs to delivery.
-- [**Product Management API**](https://github.com/Algorithme123/oozons-springboot-product-management) — A REST API built with Spring Boot.
+<p>
+  <img src="./assets/languages/java.svg" alt="Java" title="Java" width="72" height="86" />
+  <img src="./assets/languages/python.svg" alt="Python" title="Python" width="72" height="86" />
+  <img src="./assets/languages/javascript.svg" alt="JavaScript" title="JavaScript" width="72" height="86" />
+  <img src="./assets/languages/typescript.svg" alt="TypeScript" title="TypeScript" width="72" height="86" />
+  <img src="./assets/languages/dart.svg" alt="Dart" title="Dart" width="72" height="86" />
+  <img src="./assets/languages/php.svg" alt="PHP" title="PHP" width="72" height="86" />
+  <img src="./assets/languages/sql.svg" alt="SQL" title="SQL" width="72" height="86" />
+  <img src="./assets/languages/bash.svg" alt="Bash" title="Bash" width="72" height="86" />
+  <img src="./assets/languages/html.svg" alt="HTML" title="HTML" width="72" height="86" />
+  <img src="./assets/languages/css.svg" alt="CSS" title="CSS" width="72" height="86" />
+</p>
