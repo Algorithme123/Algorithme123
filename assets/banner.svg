@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Daniel GOGO — Red teaming and software development</title>
+  <desc id="description">Midnight blue banner for Daniel GOGO, Algorithme123, with three focus areas: red teaming, application security, and software development.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101b2f"/>
+      <stop offset="1" stop-color="#080f1d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#63e6d2"/>
+      <stop offset="1" stop-color="#89abff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#b3c8e8" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#background)" stroke="#243249"/>
+  <rect x="2" y="2" width="1196" height="336" rx="23" fill="url(#grid)"/>
+  <path d="M 25 1 H 850" stroke="url(#accent)" stroke-width="2" opacity="0.65"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="48" y="44" width="26" height="26" rx="7" fill="#163f43"/>
+    <path d="m58 52-5 5 5 5m6-10 5 5-5 5" fill="none" stroke="#79e6d6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="87" y="62" fill="#a8bdd6" font-size="13" font-weight="600" letter-spacing="2.6">ALGORITHME123</text>
+
+    <text x="48" y="148" fill="#f1f5fb" font-size="64" font-weight="700" letter-spacing="-2">Daniel GOGO<tspan fill="#75e4d4">.</tspan></text>
+    <text x="51" y="190" fill="#aebfd6" font-size="22">Build with purpose. Think like an adversary.</text>
+
+    <g font-size="13" font-weight="600" letter-spacing="0.7">
+      <rect x="50" y="239" width="159" height="38" rx="19" fill="#302331" stroke="#573745"/>
+      <circle cx="70" cy="258" r="3" fill="#f49aaa"/>
+      <text x="83" y="263" fill="#f4bfca">RED TEAMING</text>
+
+      <rect x="222" y="239" width="224" height="38" rx="19" fill="#19263e" stroke="#2e3f5b"/>
+      <circle cx="242" cy="258" r="3" fill="#9bb9ff"/>
+      <text x="255" y="263" fill="#bdceff">APPLICATION SECURITY</text>
+
+      <rect x="459" y="239" width="177" height="38" rx="19" fill="#26243a" stroke="#3e3856"/>
+      <circle cx="479" cy="258" r="3" fill="#c5b5f5"/>
+      <text x="492" y="263" fill="#d6caf7">DEV &amp; DEVOPS</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 790 96 H 842 V 147 H 893 M 802 244 H 842 V 193 H 893 M 1024 170 H 1103" stroke="#2b4057" stroke-width="1.5"/>
+    <circle cx="786" cy="96" r="4" fill="#80e0d4" stroke="#80e0d4"/>
+    <circle cx="798" cy="244" r="4" fill="#a7b9f2" stroke="#a7b9f2"/>
+    <circle cx="1107" cy="170" r="4" fill="#80e0d4" stroke="#80e0d4"/>
+    <rect x="879" y="91" width="158" height="158" rx="34" transform="rotate(12 958 170)" stroke="#20374d"/>
+    <rect x="900" y="112" width="116" height="116" rx="27" fill="#102334" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="m941 148-22 22 22 22m34-44 22 22-22 22m-12-51-13 58" stroke="url(#accent)" stroke-width="4"/>
+  </g>
+</svg>
